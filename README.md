@@ -40,4 +40,10 @@
   <a href="https://github.com/joshuanathanjavier"><img src="https://github-readme-stats.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Joshi%20Only%20Status&title_color=005fa3&icon_color=018513&ring_color=850101" alt="Joshi's github stats"></a>
 </p>
 <br>
+<h1>📄School Projects</h1>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=TaraLaro&title_color=005fa3)](https://github.com/joshuanathanjavier/TaraLaro)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=teamfight-tactipedia&title_color=005fa3)](https://github.com/joshuanathanjavier/teamfight-tactipedia)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=loveconnect&title_color=005fa3)](https://github.com/joshuanathanjavier/loveconnect)
+
 </div>
