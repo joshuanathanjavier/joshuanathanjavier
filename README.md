@@ -2,12 +2,12 @@
   <h1 align="center">$$\color{#e4ff8c}\Huge\textsf{\textbf{🌕HOW DID YOU FIND ME?🌕}}$$</h1>
 <p align="center">
   <a href="https://x.com/josh1nara">
-    <img src="assets/NewJeans_Ditto.gif" alt="Banner">
+    <img src="https://github.com/joshuanathanjavier/joshuanathanjavier/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/NewJeans_Ditto.gif" alt="Banner">
   </a>
 </p>
 <h5 align="center">$$\color{#969696}\textsf{Hi, My name is Joshi.}$$</h5>
 <h1 align="center">$$\color{#b8f4ff}こんにちは, 私の名前は$$<a href="https://x.com/josh1nara">じょし</a>$$\color{#b8f4ff}です!$$</h1>
-<img src="assets/Hanni.gif" width="25%" align="right" />
+<img src="https://github.com/joshuanathanjavier/joshuanathanjavier/blob/ae476bd240a10cc775754d113f0cb69eb06adba2/assets/Hanni.gif" width="25%" align="right" />
 
 <p align="center">$$\color{#8cffb1}\textsf{&#x1F90D; I LIKE BUILDING THINGS OUT OF MY PASSION.}$$</p>
 <img src="assets/minime.png" width="20%"/>
