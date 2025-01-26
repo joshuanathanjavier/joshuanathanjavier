@@ -33,7 +33,7 @@
 <br>
 <h1>👨🏻‍💻Languages</h1>
 <p>$$\blacktriangleright\color{#b1f1fc}Insert \space Learning \space Japanese \blacktriangleleft$$</p>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=005fa3">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=01854c">
 <h1>📅Stats</h1>
 <p>$$\color{#ff8c8c}\textsf{🚨NOT MUCH OF AN ACTIVE PERSON🚨}$$</p>
 <p align="center">
