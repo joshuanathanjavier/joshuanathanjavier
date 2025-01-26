@@ -33,11 +33,11 @@
 <br>
 <h1>👨🏻‍💻Languages</h1>
 <p>$$\blacktriangleright\color{#b1f1fc}Insert \space Learning \space Japanese \blacktriangleleft$$</p>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=01854c">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=01854a">
 <h1>📅Stats</h1>
 <p>$$\color{#ff8c8c}\textsf{🚨NOT MUCH OF AN ACTIVE PERSON🚨}$$</p>
 <p align="center">
-  <a href="https://github.com/joshuanathanjavier"><img src="https://github-readme-stats.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Joshi%20Only%20Status&title_color=005fa3&icon_color=018513&ring_color=850101" alt="Joshi's github stats"></a>
+  <a href="https://github.com/joshuanathanjavier"><img src="https://github-readme-stats.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Joshi%20Only%20Status&title_color=005fb3&icon_color=018513&ring_color=850101" alt="Joshi's github stats"></a>
 </p>
 <br>
 <h1>📄School Projects</h1>
