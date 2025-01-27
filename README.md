@@ -42,8 +42,9 @@
 <br>
 <h1>📄School Projects</h1>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Sanctuary&title_color=005fa3)](https://github.com/joshuanathanjavier/Sanctuary)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Portfolio&title_color=005fd3)](https://github.com/joshuanathanjavier/Portfolio)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Teamfight-Tactipedia&title_color=005fb3)](https://github.com/joshuanathanjavier/Teamfight-Tactipedia)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=TaraLaro&title_color=005fc3)](https://github.com/joshuanathanjavier/TaraLaro)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=loveconnect&title_color=005fd3)](https://github.com/joshuanathanjavier/loveconnect)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Sanctuary&title_color=005fa3)](https://github.com/joshuanathanjavier/Sanctuary)
 </div>
