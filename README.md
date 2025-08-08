@@ -13,7 +13,10 @@
 <br>
   <br>
     <br>
-  <h1>📌About Me</h1>
+<h1>📌About Me</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Front-End+Developer;Game+Developer;Passion+To+Build)](https://git.io/typing-svg)
+  
 <pre>
     📚 BSIT Student@PUP • Front-End Dev • Entry-Level
     💻 Game & Web Programming Languages • Into Web3 
@@ -34,11 +37,17 @@
 <h1>👨🏻‍💻Languages</h1>
 <p>$$\blacktriangleright\color{#b1f1fc}Insert \space Learning \space Japanese \blacktriangleleft$$</p>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=01854b">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,godot,unity)](https://skillicons.dev)
+
 <h1>📅Stats</h1>
 <p>$$\color{#ff8c8c}\textsf{🚨NOT MUCH OF AN ACTIVE PERSON🚨}$$</p>
 <p align="center">
   <a href="https://github.com/joshuanathanjavier"><img src="https://github-readme-stats.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20of%20Joshi&title_color=005fb3&icon_color=018513&ring_color=850101" alt="Joshi's github stats"></a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joshuanathanjavier)](https://git.io/streak-stats)
+
 <br>
 <h1>📄Projects</h1>
 
@@ -48,4 +57,9 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=TaraLaro&title_color=005fc3)](https://github.com/joshuanathanjavier/TaraLaro)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Personal-Portfolio&title_color=005fa3)](https://github.com/joshuanathanjavier/Personal-Portfolio)
 
+<br>
+
+<h1>Trophy</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=joshuanathanjavier&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
