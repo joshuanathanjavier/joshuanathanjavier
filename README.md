@@ -59,7 +59,7 @@
 
 <br>
 
-<h1>Trophy</h1>
+<h1>🏆Trophy</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshuanathanjavier&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
