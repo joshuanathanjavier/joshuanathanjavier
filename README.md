@@ -43,9 +43,9 @@
 <h1>📄Projects</h1>
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Sanctuary&title_color=005fa3)](https://github.com/joshuanathanjavier/Sanctuary)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Glair&title_color=005fd3)](https://github.com/joshuanathanjavier/Glair)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Glair&title_color=005fa3)](https://github.com/joshuanathanjavier/Glair)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Teamfight-Tactipedia&title_color=005fb3)](https://github.com/joshuanathanjavier/Teamfight-Tactipedia)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=TaraLaro&title_color=005fc3)](https://github.com/joshuanathanjavier/TaraLaro)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Personal-Portfolio&title_color=005fd3)](https://github.com/joshuanathanjavier/Personal-Portfolio)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=joshuanathanjavier&repo=Personal-Portfolio&title_color=005fa3)](https://github.com/joshuanathanjavier/Personal-Portfolio)
 
 </div>
