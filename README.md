@@ -52,8 +52,4 @@
 [![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Teamfight-Tactipedia&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Teamfight-Tactipedia)
 [![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=TaraLaro&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/TaraLaro)
 [![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Personal-Portfolio&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Personal-Portfolio)
-
-<br>
-<h1>🏆Trophy</h1>
-<img src="https://github-profile-trophy.vercel.app/?username=joshuanathanjavier&theme=onedark">
 </div>
