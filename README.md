@@ -17,11 +17,11 @@
 <h1>📌About Me</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Front-End+Developer;Game+Developer;Passion+To+Build">
 <pre>
-    📚 BSIT Student@PUP • Front-End Dev • Entry-Level
+    📚 BSIT Student@PUP • Front-End Dev
     💻 Game & Web Programming Languages • Into Web3 
-    📖 I am into reading a lot of things • Chill
-    🎮 Music • Games • WebNovel • Coding • Arts
-    💤 I am a sleep-deprived person
+    📖 I am into a lot of reading • Chill
+    🎮 Music • Games • Coding • Arts
+    💤 I am a insomnia person
     👖 I stan NewJeans
 </pre>
 <br>
