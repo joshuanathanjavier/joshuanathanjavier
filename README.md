@@ -37,9 +37,16 @@
 <p>$$\blacktriangleright\color{#b1f1fc}Insert \space Learning \space Japanese \blacktriangleleft$$</p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,godot,unity">
   <br>
-  <img src="https://github-readme-stats-phi-seven-51.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=b1f1fc&theme=dark&hide_border=true" height="192px">
+  <br>
+  
+  |<img src="https://github-readme-stats-phi-seven-51.vercel.app/api/top-langs/?username=joshuanathanjavier&layout=compact&title_color=b1f1fc&theme=dark&hide_border=true" height="192px">|
+  |-----|
+  
+|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuanathanjavier&theme=dark)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuanathanjavier&theme=dark&exclude=rust)|
+|-----|------|
 <h1>📅Stats</h1>
 <p>$$\color{#ff8c8c}\textsf{🚨NOT MUCH OF AN ACTIVE PERSON🚨}$$</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuanathanjavier&theme=dark" alt="Joshi's Summary Profile Card">
 <img src="https://github-readme-stats-phi-seven-51.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20of%20Joshi&title_color=b1f1fc&icon_color=b1f1fc&ring_color=b1f1fc&theme=dark" alt="Joshi's github stats" height="192px">
 <img src="https://github-readme-streak-stats-silk-nu.vercel.app?user=joshuanathanjavier&theme=dark&hide_border=true&short_numbers=true">
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=joshuanathanjavier&bg_color=1a1a1a&color=b1f1fc&line=b1f1fc&point=FFFFFF&hide_border=true" />
