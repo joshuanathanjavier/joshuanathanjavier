@@ -35,7 +35,7 @@
 <br>
 <h1>👨🏻‍💻Languages</h1>
 <p>$$\blacktriangleright\color{#b1f1fc}Insert \space Learning \space Japanese \blacktriangleleft$$</p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,godot,unity">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,godot">
   <br>
   <br>
   
