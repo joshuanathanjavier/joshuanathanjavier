@@ -57,8 +57,8 @@
 <p>$$\color{#ff8c8c}\textsf{🚨NOT MUCH OF AN ACTIVE PERSON🚨}$$</p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuanathanjavier&theme=dark" alt="Joshi's Summary Profile Card">
 <img src="https://github-readme-stats-phi-seven-51.vercel.app/api?username=joshuanathanjavier&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Status%20of%20Joshi&title_color=b1f1fc&icon_color=b1f1fc&ring_color=b1f1fc&theme=dark&hide=prs&show=reviews&locale=ja" alt="Joshi's github stats" height="192px">
-<img src="https://github-readme-streak-stats-silk-nu.vercel.app?user=joshuanathanjavier&theme=dark&hide_border=true&short_numbers=true&locale=ja">
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=joshuanathanjavier&bg_color=1a1a1a&color=b1f1fd&line=b1f1fc&point=FFFFFF&hide_border=true" alt="Joshi's Contribution Graph"/>
+<img src="https://github-readme-streak-stats-silk-nu.vercel.app?user=joshuanathanjavier&theme=dark&hide_border=true&short_numbers=true&locale=ja">
 
 <br>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="30" height="30" />Projects</h1>
