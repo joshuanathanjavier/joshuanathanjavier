@@ -17,7 +17,7 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" />About Me</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Front-End+Developer;Game+Developer;Passion+To+Build">
 <pre>
-    📚 BSIT Student@PUP • Front-End Dev
+    📚 Front-End Dev
     💻 Game & Web Programming Languages • Into Web3 
     📖 I am into a lot of reading • Chill
     🎮 Music • Games • Coding • Arts
