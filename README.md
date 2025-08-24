@@ -18,8 +18,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Front-End+Developer;Game+Developer;Passion+To+Build">
 <pre>
     📚 Front-End Dev
-    💻 Game & Web Programming Languages • Into Web3 
-    📖 I am into a lot of reading • Chill
+    💻 Game & Web Programming Languages
+    📖 I am into a lot of reading
     🎮 Music • Games • Coding • Arts
     💤 I am a insomnia person
     👖 I stan NewJeans
