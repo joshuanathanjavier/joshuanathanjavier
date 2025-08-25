@@ -65,6 +65,4 @@
 
 [![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Sanctuary&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Sanctuary)
 [![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Glair&title_color=b1f1fb&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Glair)
-[![](https://github-readme-stats-phi-seven-51.vercel.app/api/pin/?username=joshuanathanjavier&repo=Personal-Portfolio&title_color=b1f1fc&theme=dark&hide_border=true)](https://github.com/joshuanathanjavier/Personal-Portfolio)
-</div>
 
