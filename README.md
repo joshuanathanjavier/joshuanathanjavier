@@ -21,8 +21,8 @@
     💻 Game & Web Programming
     📖 I am into a lot of reading
     🎮 Music • Games • Coding • Arts
-    💤 I am a Insomnia person
-    👖 I stan NewJeans
+    💤 I am an Insomnia person
+    👖 I stan NewJeans/NJZ
 </pre>
 <br>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="30" height="30" />Socials</h1>
