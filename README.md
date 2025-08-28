@@ -20,7 +20,7 @@
     📚 Front-End Dev
     💻 Game & Web Programming
     📖 I am into a lot of reading
-    🎮 Music • Games • Coding • Arts
+    🎮 Music • Games • Coding
     💤 I am an Insomnia person
     👖 I stan NewJeans/NJZ
 </pre>
